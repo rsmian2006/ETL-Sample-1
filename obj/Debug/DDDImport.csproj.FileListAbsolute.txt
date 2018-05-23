@@ -1,0 +1,5 @@
+C:\Users\rmian.LIQUIDUS\Documents\Visual Studio 2015\Projects\ddd\ddd\DDDapp\DDDImport\bin\Debug\DDDImport.exe.config
+C:\Users\rmian.LIQUIDUS\Documents\Visual Studio 2015\Projects\ddd\ddd\DDDapp\DDDImport\bin\Debug\DDDImport.exe
+C:\Users\rmian.LIQUIDUS\Documents\Visual Studio 2015\Projects\ddd\ddd\DDDapp\DDDImport\bin\Debug\DDDImport.pdb
+C:\Users\rmian.LIQUIDUS\Documents\Visual Studio 2015\Projects\ddd\ddd\DDDapp\DDDImport\obj\Debug\DDDImport.exe
+C:\Users\rmian.LIQUIDUS\Documents\Visual Studio 2015\Projects\ddd\ddd\DDDapp\DDDImport\obj\Debug\DDDImport.pdb
